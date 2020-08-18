@@ -1,6 +1,6 @@
 # Visusalising The Legislative Assembly Elections - Maharashtra (2019)
 
-
+**Jupyter NB Viewer Link for viewing the notebook:** https://nbviewer.jupyter.org/github/pranavbijwe/SimpleVisualiztionForMaharashtraElections2019/blob/master/Simple%20Visualizations%20for%20Maharashtra%20Elections%202019.ipynb
 
 **Aim** : This notebook aims to demonstrate the efficacy of using plotly's easy to use software library to create visualisations for the subject at hand.
 
